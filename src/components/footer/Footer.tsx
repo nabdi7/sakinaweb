@@ -83,7 +83,7 @@ const Footer = () => {
           <p>
             ©{new Date().getFullYear()} Sakina App. All rights reserved.
           </p>
-          <p className="text-center text-sm py-4">
+          {/* <p className="text-center text-sm py-4">
             Made by{" "}
             <a
               href="https://qdwebdesigns.com"
@@ -92,7 +92,7 @@ const Footer = () => {
             >
               Quality Designs
             </a>
-          </p>
+          </p> */}
         </div>
       </div>
     </footer>
