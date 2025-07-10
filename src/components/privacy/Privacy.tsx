@@ -50,18 +50,19 @@ const Privacy = () => {
                 1. OUR PRIVACY COMMITMENT
               </h2>
               <p className="text-sm text-gray-700">
-                Welcome to Sakina App (&quot;we,&quot; &quot;our,&quot; or &quot;us&quot;). We are committed
-                to protecting your privacy and providing a secure experience.
-                This Privacy Policy explains how we handle data generated
-                through your use of our application. By using Sakina App, you
-                agree to the terms outlined in this policy.
+                Welcome to Sakina App (&quot;we,&quot; &quot;our,&quot; or
+                &quot;us&quot;). We are committed to protecting your privacy and
+                providing a secure experience. This Privacy Policy explains how
+                we handle data generated through your use of our application. By
+                using Sakina App, you agree to the terms outlined in this
+                policy.
               </p>
               <p className="text-sm text-gray-700 mt-4">
                 Sakina App is built with privacy as its foundation. We believe
                 your spiritual journey and personal reflections should remain
-                completely private. We&apos;ve designed our app so that your data
-                stays exclusively on your device and is never transmitted to us
-                or any third parties.
+                completely private. We&apos;ve designed our app so that your
+                data stays exclusively on your device and is never transmitted
+                to us or any third parties.
               </p>
             </div>
 
@@ -137,8 +138,8 @@ const Privacy = () => {
               </p>
               <ul className="list-disc list-inside text-sm text-gray-700">
                 <li>
-                  Access and view your data through the App&apos;s interface at any
-                  time
+                  Access and view your data through the App&apos;s interface at
+                  any time
                 </li>
                 <li>Edit or delete individual entries as desired</li>
                 <li>Reset specific data categories through App features</li>
@@ -230,9 +231,9 @@ const Privacy = () => {
                 Sakina App is designed to be appropriate and safe for users of
                 all ages, including children under 13. Since we do not collect
                 any personal information from any user, regardless of age, there
-                are no special provisions required for children&apos;s data under
-                regulations such as COPPA (Children&apos;s Online Privacy Protection
-                Act).
+                are no special provisions required for children&apos;s data
+                under regulations such as COPPA (Children&apos;s Online Privacy
+                Protection Act).
               </p>
               <p className="text-sm text-gray-700 mt-4">
                 Parents and guardians can be confident that children can use the
@@ -277,9 +278,10 @@ const Privacy = () => {
               </ul>
               <p className="text-sm text-gray-700 mt-4">
                 When we make material changes, we will notify you through an
-                in-app notice and update the &quot;Last Updated&quot; date at the bottom
-                of this policy. We encourage you to periodically review this
-                policy to stay informed about how we protect your information.
+                in-app notice and update the &quot;Last Updated&quot; date at
+                the bottom of this policy. We encourage you to periodically
+                review this policy to stay informed about how we protect your
+                information.
               </p>
             </div>
 
@@ -288,7 +290,8 @@ const Privacy = () => {
               <p className="text-sm text-gray-700">
                 We welcome your questions, comments, and concerns about privacy.
                 If you have any inquiries about this Privacy Policy or Sakina
-                App&apos;s privacy practices, please contact us at: <span className="text-blue-500">qdwebdesigns@gmail.com</span>
+                App&apos;s privacy practices, please contact us at:{" "}
+                <span className="text-blue-500">thesakinaapp@gmail.com</span>
               </p>
 
               <p className="text-sm text-gray-700 mt-4">
